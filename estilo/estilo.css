@@ -1,0 +1,96 @@
+.contenedor {
+    height: 100%;
+    background-image:url("/proyectoccs/imagenes/search-mobile.webp");
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+    display: block;
+    box-sizing: border-box; 
+    line-height: 1.5;
+    flex-direction: column;
+    
+}
+
+.h1{
+    text-align: center;
+    padding-top: 24px;
+    padding-right: 32px;
+    padding-bottom: 24px;
+    padding-left: 32px;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.h2 {
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-bottom: 8px;
+    margin-left: 10px;
+    color: #d9d9d9;
+    font-size: 12px;
+}
+
+.mejoressoluciones
+ a { text-decoration: none;
+    color:#FDFEFE;
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    display: block;
+
+
+}
+
+.tcategoria {
+    color:black;
+    text-decoration: none;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    text-transform: none;
+    letter-spacing: -0.04em;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    border-bottom: 1px solid #ccc;
+}
+
+.ccategoria {
+    padding-bottom: 12px;
+    display: list-item;
+    text-align: -webkit-match-parent;
+    color:green;
+    background: #fff;
+    list-style: none;
+
+
+}
+.comunidad{
+    color: black;
+    font-weight: 700;
+    display: block;
+    padding-top: 64px;
+    padding-right: 16px;
+    padding-bottom: 64px;
+    padding-left: 16px;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.pparrafo {
+    color: black ;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.footer {
+    padding-bottom: 12px;
+    display: list-item;
+    text-align: -webkit-match-parent;
+    color:rgb(251, 252, 251);
+    background: rgb(3, 3, 3);
+    list-style: none;
+}
+
+
+
